@@ -1,0 +1,59 @@
+body {
+    background-image: url("https://media.post.rvohealth.io/wp-content/uploads/2022/01/hot-tea-steaming-steeping-732-549-feature-thumb.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: beige;
+    text-shadow: black 0px 0px 10px;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: cantarell;
+    
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-family: cantarell;
+}
+
+button {
+    border: solid 1px #F5F2E3; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #F5F2E3;
+    font-weight: bold;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    font-family: cantarell;
+    margin: 10px;
+    text-shadow: black 0px 0px 3px;
+}
+
+#increment-btn {
+    background: #42310F
+}
+
+#save-btn {
+    background: #E29617;
+}
+
+#save-el {
+    font-family: cantarell;
+    font-weight: bold;
+}
+
+.container {
+    backdrop-filter: blur(10px);
+    max-width: 50%;
+    margin: auto;
+    border: 1px solid beige;
+    border-radius: 10px;
+}
